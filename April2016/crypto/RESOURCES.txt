@@ -1,0 +1,6 @@
+For encrypting and decyrpting and explaining cyphers
+
+http://rumkin.com/tools/cipher/
+http://crypto.interactive-maths.com/caesar-shift-cipher.html
+http://www.sha1-online.com/
+http://www.braingle.com/brainteasers/codes/keyword.php

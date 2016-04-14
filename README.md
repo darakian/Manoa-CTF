@@ -1,25 +1,33 @@
-#Manoa CTF programs
+#Manoa Capture the Flag
 Code written to be exploitable for use in a capture the flag environment.
 
-#License
-The MIT License (MIT)
+##License
+See [here](https://github.com/darakian/Manoa-OpenCTF/blob/master/LICENSE)
 
-Copyright (c) 2016 Jon Moroney
+##Contributing
+When contributing please create a write up for each flag with the following details
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+####CHALLENGE DESCRIPTION
+test
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+####CLUES
+test
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+####HOW TO SOLVE
+test
+
+####DIFFICULTY
+Easy, Medium, Hard
+
+####HOW TO RUN
+compiler, libraries...
+
+####FLAG
+FLAG-SHA1
+
+####TOOLS NEEDED
+Wireshark, hexdump...
+
+####SOLUTIONS
+test
+

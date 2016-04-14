@@ -1,0 +1,23 @@
+-CHALLENGE DESCRIPTION
+Keyword Shift Cypher
+
+-CLUES
+Oath of Commissioned Officers
+
+-HOW TO SOLVE
+Frequency Analysis
+
+-DIFFICULTY
+Easy
+
+-HOW TO RUN
+N/A
+
+-FLAG
+flag-0514b6fdaa863addd7dbb15c2052cb3ae6755c4a
+
+-TOOLS NEEDED
+Web Browser
+
+-SOLUTION
+I name having been appointed as an officer in the United States military do solemnly swear or affirm that I will support and defend the Constitution of the United States against all enemies foriegn and domestic that I will bear true faith and allegiance to the same that I take this obligation freely without any mental reservation or purpose of evasion and that I will well and faithfully discharge the office upon which I am about to enter So help me God flag-0514b6fdaa863addd7dbb15c2052cb3ae6755c4a

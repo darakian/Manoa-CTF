@@ -1,9 +1,12 @@
 #include <stdio.h>
 #include <string.h>
+#include <openssl/sha.h>
 
 void main (int argc, char *argv[])
 {
   char answer[7] = "po'oihe";
+  unsigned char hash[SHA_DIGEST_LENGTH];
+  SHA1(answer, sizeof(answer) - 1, hash);
 
   if (argc<2)
   {
@@ -29,7 +32,10 @@ void main (int argc, char *argv[])
   }
   if (comp==0)
   {
-    printf("Correct!\n");
+    for(int i = 0; i<20;i++)
+    {
+      printf("%x\n", hash[i]);
+    }
     return;
   }
 }

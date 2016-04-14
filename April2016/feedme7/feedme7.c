@@ -5,8 +5,9 @@
 void main (int argc, char *argv[])
 {
   char answer[7] = "po'oihe";
-  unsigned char hash[SHA_DIGEST_LENGTH];
-  SHA1(answer, sizeof(answer) - 1, hash);
+  unsigned char hash[SHA_DIGEST_LENGTH]; //
+  //printf("SHA_DIGEST_LENGTH = %d\n", SHA_DIGEST_LENGTH);
+  SHA1(answer, sizeof(answer), hash);
 
   if (argc<2)
   {

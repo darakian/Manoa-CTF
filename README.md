@@ -7,17 +7,14 @@ When contributing please create a write up for each flag with the following deta
 ####CHALLENGE DESCRIPTION
 A basic description of the challenge
 
-####CLUES()
-t
+####CLUES
+If clues are given to contestant, list them
 
 ####HOW TO SOLVE(solution)
 Describe how a contestant is supposed to complete the challenge and find the flag
 
 ####DIFFICULTY
 Easy, Medium, Hard
-
-####HOW TO RUN
-compiler, libraries...
 
 ####FLAG
 
@@ -27,7 +24,7 @@ FLAG-648a6a6ffffdaa0badb23b8baf90b6168dd16b3a
 ```
 
 RegEx:
-```
+```regex
 FLAG-[:alnum:]{40}
 ```
 

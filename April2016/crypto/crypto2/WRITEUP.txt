@@ -2,10 +2,10 @@
 Keyword Shift Cypher
 
 -CLUES
-Oath of Commissioned Officers
+Oath of Commissioned Officers, UCMJ
 
 -HOW TO SOLVE
-Frequency Analysis
+Keyed Caesar
 
 -DIFFICULTY
 Easy

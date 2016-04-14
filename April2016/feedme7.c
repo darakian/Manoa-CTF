@@ -7,29 +7,29 @@ void main (int argc, char *argv[])
 
   if (argc<2)
   {
-    printf("MOAR!\n");
+    printf("Program takes one argument!\n");
     return;
   }
   if (argc>2)
   {
-    printf("LESS!\n");
+    printf("Program takes one argument!\n");
     return;
   }
 
   int comp = (memcmp(argv[1], answer, sizeof(answer)));
   if (comp > 0)
   {
-    printf("TOO SPICEY!\n");
+    printf("Input value over target value\n");
     return;
   }
   if (comp<0)
   {
-    printf("TOO SOUR!\n");
+    printf("Input value under target value\n");
     return;
   }
   if (comp==0)
   {
-    printf("Just right!\n");
+    printf("Correct!\n");
     return;
   }
 }

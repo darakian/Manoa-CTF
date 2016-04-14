@@ -1,8 +1,21 @@
 descritpion of challeng and what it does
+Caesar Shift Cypher
+
 clues
+Oath of Enlistment
+
 how to solve it
+Frequency Analysis
+
 rate on difficulty
+Easy
+
 install script, how it works, run off what
+
+
 final version of challenge and flag
+
+
 what tools needed
+Web Browser
 

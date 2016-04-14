@@ -1,1 +1,0 @@
-simple hash SHA/MD5

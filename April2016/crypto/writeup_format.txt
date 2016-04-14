@@ -1,8 +1,0 @@
-descritpion of challeng and what it does
-clues
-how to solve it
-rate on difficulty
-install script, how it works, run off what
-final version of challenge and flag
-what tools needed
-

@@ -19,3 +19,6 @@ FLAG-SHA1
 -TOOLS NEEDED
 Wireshark, hexdump...
 
+-SOLUTIONS
+test
+

@@ -6,6 +6,7 @@ US Army FM 21-10 Field Hygiene and Sanitation
 
 -HOW TO SOLVE
 Morse Code
+http://rumkin.com/tools/cipher/morse.php
 
 -DIFFICULTY
 Easy

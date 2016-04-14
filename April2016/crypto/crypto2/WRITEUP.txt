@@ -5,7 +5,8 @@ Keyword Shift Cypher
 Oath of Commissioned Officers, UCMJ
 
 -HOW TO SOLVE
-Keyed Caesar
+Keyed Caesar Cypher, No Shift
+http://rumkin.com/tools/cipher/caesar-keyed.php
 
 -DIFFICULTY
 Easy

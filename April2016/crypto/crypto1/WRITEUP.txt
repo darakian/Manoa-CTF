@@ -6,6 +6,7 @@ Oath of Enlistment
 
 -HOW TO SOLVE
 Frequency Analysis
+http://rumkin.com/tools/cipher/caesar.php
 
 -DIFFICULTY
 Easy

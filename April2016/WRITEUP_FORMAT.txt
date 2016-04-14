@@ -1,20 +1,21 @@
 -CHALLENGE DESCRIPTION
-Caesar Shift Cypher
-
--CLUES
-Oath of Enlistment
-
--HOW TO SOLVE
-Frequency Analysis
-
--DIFFICULTY
-Easy
-
--HOW TO RUN
-
--FLAG
 test
 
+-CLUES
+test
+
+-HOW TO SOLVE
+test
+
+-DIFFICULTY
+Easy, Medium, Hard
+
+-HOW TO RUN
+compipler, libraries...
+
+-FLAG
+FLAG-SHA1
+
 -TOOLS NEEDED
-Web Browser
+Wireshark, hexdump...
 

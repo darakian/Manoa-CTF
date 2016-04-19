@@ -9,7 +9,7 @@ Keyed Caesar Cypher, No Shift
 http://rumkin.com/tools/cipher/caesar-keyed.php
 
 -DIFFICULTY
-Easy
+Medium
 
 -HOW TO RUN
 N/A

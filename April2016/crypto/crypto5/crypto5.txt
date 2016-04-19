@@ -1,1 +1,13 @@
-test text
+ssh root@172.18.1.392
+ls
+//something
+cd logs
+ls
+//something
+cd .temp
+ls
+//something
+ls asl
+//something
+cat .message.txt
+//usernames and hashes

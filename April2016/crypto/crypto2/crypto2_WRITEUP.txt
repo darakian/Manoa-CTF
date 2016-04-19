@@ -1,13 +1,12 @@
 -CHALLENGE DESCRIPTION
-Morse Code
-Caesar Shift
+Hexidecimal
 
 -CLUES
-US Army FM 21-10 Field Hygiene and Sanitation
+United States Constitution Preamble
 
 -HOW TO SOLVE
-Morse Code
-http://rumkin.com/tools/cipher/morse.php
+Hexidecimal
+http://www.wordsmuggler.com/Smuggler
 
 -DIFFICULTY
 Easy
@@ -16,10 +15,10 @@ Easy
 N/A
 
 -FLAG
-flag-cfc174913c9e6f285600439d262cec207b78464a
+flag-8867c88b56e0bfb82cffaf15a66bc8d107d6754a
 
 -TOOLS NEEDED
 Web Browser
 
 -SOLUTION
-Historically,  in  every  conflict  up  through  World  War  II,  in  which  the  United  States  was  involved, approximately 20 percent of hospital admissions were the result of combat injuries.  The other 80 percent were the result of disease and nonbattle injury.  In some areas the incidence of disease was so severe that entire divisions became combat ineffective flag cfc174913c9e6f285600439d262cec207b78464a
+We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence,[note 1] promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America flag 8867c88b56e0bfb82cffaf15a66bc8d107d6754a

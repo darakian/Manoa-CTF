@@ -1,12 +1,13 @@
 -CHALLENGE DESCRIPTION
-Hexidecimal
+Morse Code
+Caesar Shift
 
 -CLUES
-United States Constitution Preamble
+US Army FM 21-10 Field Hygiene and Sanitation
 
 -HOW TO SOLVE
-Hexidecimal
-http://www.wordsmuggler.com/Smuggler
+Morse Code
+http://rumkin.com/tools/cipher/morse.php
 
 -DIFFICULTY
 Easy
@@ -15,10 +16,10 @@ Easy
 N/A
 
 -FLAG
-flag-8867c88b56e0bfb82cffaf15a66bc8d107d6754a
+flag-cfc174913c9e6f285600439d262cec207b78464a
 
 -TOOLS NEEDED
 Web Browser
 
 -SOLUTION
-We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence,[note 1] promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America flag 8867c88b56e0bfb82cffaf15a66bc8d107d6754a
+Historically,  in  every  conflict  up  through  World  War  II,  in  which  the  United  States  was  involved, approximately 20 percent of hospital admissions were the result of combat injuries.  The other 80 percent were the result of disease and nonbattle injury.  In some areas the incidence of disease was so severe that entire divisions became combat ineffective flag cfc174913c9e6f285600439d262cec207b78464a

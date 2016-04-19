@@ -19,6 +19,8 @@ Easy, Medium, Hard
 ####FLAG
 
 Example flag:
+SHA1 hash
+
 ```bash
 FLAG-648a6a6ffffdaa0badb23b8baf90b6168dd16b3a
 ```

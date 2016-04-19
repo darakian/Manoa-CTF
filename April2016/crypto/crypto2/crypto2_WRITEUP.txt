@@ -1,5 +1,6 @@
 -CHALLENGE DESCRIPTION
 Morse Code
+Caesar Shift
 
 -CLUES
 US Army FM 21-10 Field Hygiene and Sanitation

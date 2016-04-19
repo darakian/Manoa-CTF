@@ -1,0 +1,23 @@
+-CHALLENGE DESCRIPTION
+N/A
+
+-CLUES
+United States Declaration of Independance Preamble
+
+-HOW TO SOLVE
+N/A
+
+-DIFFICULTY
+Easy
+
+-HOW TO RUN
+N/A
+
+-FLAG
+flag-252ba9219276c07d27adfdec8d7018f60c5be517
+
+-TOOLS NEEDED
+Web Browser
+
+-SOLUTION
+We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness flag 252ba9219276c07d27adfdec8d7018f60c5be517

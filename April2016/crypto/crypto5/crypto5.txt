@@ -2,12 +2,11 @@ ssh root@172.18.1.392
 ls
 //something
 cd logs
-ls
-//something
+ls -asl
+user    archive   Documents 
+home    workspace .temp
 cd .temp
-ls
-//something
-ls asl
-//something
+ls -asl
+.key.png    .message.txt
 cat .message.txt
-//usernames and hashes
+//hex dump of image is key to crypto file

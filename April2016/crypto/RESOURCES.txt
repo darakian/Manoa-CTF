@@ -12,3 +12,6 @@ http://www.sha1-online.com/
 
 Binary/Hex/ASCII Converter
 http://www.wordsmuggler.com/Smuggler
+
+Classical Cyphers
+https://en.wikipedia.org/wiki/Classical_cipher

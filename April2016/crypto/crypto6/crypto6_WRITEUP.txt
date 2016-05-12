@@ -6,6 +6,7 @@ Bill of Rights First Amendment
 
 -HOW TO SOLVE
 http://rumkin.com/tools/cipher/coltrans.php
+Columnar Transposition
 
 -DIFFICULTY
 Medium

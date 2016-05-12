@@ -1,5 +1,5 @@
 -CHALLENGE DESCRIPTION
-Hexidecimal
+hexidecimal
 
 -CLUES
 United States Constitution Preamble

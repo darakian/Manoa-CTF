@@ -1,0 +1,23 @@
+-CHALLENGE DESCRIPTION
+collums
+
+-CLUES
+Bill of Rights First Amendment
+
+-HOW TO SOLVE
+http://rumkin.com/tools/cipher/coltrans.php
+
+-DIFFICULTY
+Medium
+
+-HOW TO RUN
+N/A
+
+-FLAG
+flag-d7c2081ef2306aa24fd0a2cc35d5c381042823b5
+
+-TOOLS NEEDED
+Web Browser
+
+-SOLUTION
+Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press or the right of the people peaceably to assemble, and to petition the government for a redress of grievances flag  d7c2081ef2306aa24fd0a2cc35d5c381042823b5

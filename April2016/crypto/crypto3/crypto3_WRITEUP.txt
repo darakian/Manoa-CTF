@@ -5,7 +5,7 @@ salute
 Oath of Commissioned Officers, UCMJ
 
 -HOW TO SOLVE
-Keyed Caesar Cypher, No Shift
+Keyed Caesar Cypher, No Shift, Key is 'UCMJ'
 http://rumkin.com/tools/cipher/caesar-keyed.php
 
 -DIFFICULTY
